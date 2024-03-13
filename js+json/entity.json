@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Esprit",
+        "speed": "1,7m/s",
+        "treshold": "50%"
+    },
+    {
+        "id": 2,
+        "name": "Spectre",
+        "speed": "1,7m/s",
+        "treshold": "50%"
+    },
+    {
+        "id": 3,
+        "name": "Fantôme",
+        "speed": "1,7m/s",
+        "treshold": "50%"
+    },
+    {
+        "id": 4,
+        "name": "Poltergeist",
+        "speed": "1,7m/s",
+        "treshold": "50%"
+    },
+    {
+        "id": 5,
+        "name": "Banshee",
+        "speed": "1,7m/s",
+        "treshold": "50%"
+    },
+    {
+        "id": 6,
+        "name": "Djinn",
+        "speed": "1,7m/s à 2,5m/s si le courant est allumé et que l'entité est à plus de 3m de soi",
+        "treshold": "50%"
+    },
+    {
+        "id": 7,
+        "name": "Cauchemar",
+        "speed": "1,7m/s",
+        "treshold": "60% / 40%"
+    },
+    {
+        "id": 8,
+        "name": "Revenant",
+        "speed": "1m/s ou 3m/s s'il vous voit",
+        "treshold": "50%"
+    },
+    {
+        "id": 9,
+        "name": "Ombre",
+        "speed": "1,7m/s",
+        "treshold": "35%"
+    },
+    {
+        "id": 10,
+        "name": "Démon",
+        "speed": "1,7m/s",
+        "treshold": "70% / 100%"
+    },
+    {
+        "id": 11,
+        "name": "Yurei",
+        "speed": "1,7m/s",
+        "treshold": "50%"
+    },
+    {
+        "id": 12,
+        "name": "Oni",
+        "speed": "1,7m/s",
+        "treshold": "50%"
+    },
+    {
+        "id": 13,
+        "name": "Yokai",
+        "speed": "1,7m/s",
+        "treshold": "80% / 50%"
+    },
+    {
+        "id": 14,
+        "name": "Hantu",
+        "speed": "1,44m/s à 2,7m/s selon la temp.",
+        "treshold": "50%"
+    },
+    {
+        "id": 15,
+        "name": "Goryo",
+        "speed": "1,7m/s",
+        "treshold": "50%"
+    },
+    {
+        "id": 16,
+        "name": "Myling",
+        "speed": "1,7m/s",
+        "treshold": "50%"
+    },
+    {
+        "id": 17,
+        "name": "Onryo",
+        "speed": "1,7m/s",
+        "treshold": "60% / 100%"
+    },
+    {
+        "id": 18,
+        "name": "Les jumeaux",
+        "speed": "Un à 1,53m/s et un à 1,87m/s",
+        "treshold": "50%"
+    },
+    {
+        "id": 19,
+        "name": "Raiju",
+        "speed": "1,7m/s ou 2,5m/s selon la proximité avec un équipement éléctronique",
+        "treshold": "65%"
+    },
+    {
+        "id": 20,
+        "name": "Obake",
+        "speed": "1,7m/s",
+        "treshold": "50%"
+    },
+    {
+        "id": 21,
+        "name": "Mimic",
+        "speed": "Selon l'entité immitée",
+        "treshold": "Selon l'entité immitée"
+    },
+    {
+        "id": 22,
+        "name": "Moroi",
+        "speed": "1,5m/s à 2,25m/s en fonction de la santé mentale et 3,71m/s s'il vous voit",
+        "treshold": "50%"
+    },
+    {
+        "id": 23,
+        "name": "Deogen",
+        "speed": "3m/s de loin et 0.4m/s lorsqu'il est proche",
+        "treshold": "40%"
+    },
+    {
+        "id": 24,
+        "name": "Thaye",
+        "speed": "de 2,75m/s à 1m/s selon le viellissement de l'entité",
+        "treshold": "75% / 15%"
+    }
+]

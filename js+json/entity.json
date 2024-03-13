@@ -7,7 +7,7 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/spirit-box-icon.png",
         "proof3": "images/writing-icon.png",
-        "help": ""
+        "help1": "Prévient 2x plus tôt quand une chasse va arriver (180s au lieu de 90s)"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/spirit-box-icon.png",
         "proof3": "images/dots-icon.png",
-        "help": "Ne marche pas dans le sel"
+        "help1": "Ne marche pas dans le sel"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/fingerprints-icon.png",
         "proof3": "images/dots-icon.png",
-        "help": "Disparait lorsqu'il est prit en photo"
+        "help1": "Disparait lorsqu'il est prit en photo"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/fingerprints-icon.png",
         "proof3": "images/writing-icon.png",
-        "help": "Peut bouger plusieurs objets à la fois de façon puissante"
+        "help1": "Peut bouger plusieurs objets à la fois de façon puissante"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "proof1": "images/fingerprints-icon.png",
         "proof2": "images/orbs-icon.png",
         "proof3": "images/dots-icon.png",
-        "help": "Fait beaucoup d'apparitions chantantes"
+        "help1": "Fait beaucoup d'apparitions chantantes"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/fingerprints-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help": ""
+        "help1": "Il ne peut pas éteindre le disjoncteur"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/orbs-icon.png",
         "proof3": "images/writing-icon.png",
-        "help": "N'allume jamais le courant"
+        "help1": "N'allume jamais les lumières (sauf la TV et les écrans de PC)"
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "proof1": "images/orbs-icon.png",
         "proof2": "images/writing-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help": ""
+        "help1": "Son accélération lorsque le joueur est ressenti ou vu est le seul point reconaissable"
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/writing-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help": "Fait très peu d'interactions au début"
+        "help1": "Ne fait pas d'interactions ou de chasse quand quelqu'un est dans sa pièce"
     },
     {
         "id": 10,
@@ -97,7 +97,7 @@
         "proof1": "images/fingerprints-icon.png",
         "proof2": "images/writing-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help": "Son cooldown de chasse est de 20s au lieu de 25s"
+        "help1": "Son cooldown de chasse est de 20s au lieu de 25s"
     },
     {
         "id": 11,
@@ -107,7 +107,7 @@
         "proof1": "images/orbs-icon.png",
         "proof2": "images/freezing-icon.png",
         "proof3": "images/dots-icon.png",
-        "help": ""
+        "help1": "Seule entité à pouvoir intéragir avec / fermer la porte d'entrée hors chasse"
     },
     {
         "id": 12,
@@ -117,7 +117,7 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/freezing-icon.png",
         "proof3": "images/dots-icon.png",
-        "help": ""
+        "help1": "Ne fait pas de 'brume' lors de chasse"
     },
     {
         "id": 13,
@@ -127,7 +127,7 @@
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/orbs-icon.png",
         "proof3": "images/dots-icon.png",
-        "help": ""
+        "help1": "Il nous entend et nous ressent à 2.5m seulement"
     },
     {
         "id": 14,
@@ -137,7 +137,7 @@
         "proof1": "images/fingerprints-icon.png",
         "proof2": "images/orbs-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help": ""
+        "help1": "Ne peut pas allumer le disjoncteur"
     },
     {
         "id": 15,
@@ -147,7 +147,7 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/fingerprints-icon.png",
         "proof3": "images/dots-icon.png",
-        "help": ""
+        "help1": "Ces DOTs n'apparaissent que dans une caméra et sans présence dans sa salle"
     },
     {
         "id": 16,
@@ -157,7 +157,7 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/fingerprints-icon.png",
         "proof3": "images/writing-icon.png",
-        "help": "Bruits de pas inaudibles à plus de 12m mais pas les interactions"
+        "help1": "Bruits de pas inaudibles à plus de 12m mais pas les interactions"
     },
     {
         "id": 17,
@@ -167,7 +167,7 @@
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/orbs-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help": ""
+        "help1": "Les flammes agissent comme un crucifix"
     },
     {
         "id": 18,
@@ -177,7 +177,7 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/spirit-box-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help": "Font souvent des doubles intéractions (visible sur le tableau)"
+        "help1": "Font souvent des doubles intéractions (visible sur le tableau)"
     },
     {
         "id": 19,
@@ -187,7 +187,7 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/orbs-icon.png",
         "proof3": "images/dots-icon.png",
-        "help": "Ressent l'éléctronique à 15m au lieu de 10m "
+        "help1": "Ressent l'éléctronique à 15m au lieu de 10m "
     },
     {
         "id": 20,
@@ -197,7 +197,7 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/fingerprints-icon.png",
         "proof3": "images/orbs-icon.png",
-        "help": "Peut laisser des empreintes à 6 doigts"
+        "help1": "Peut laisser des empreintes à 6 doigts"
     },
     {
         "id": 21,
@@ -207,7 +207,7 @@
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/fingerprints-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help": "Laisse des orbes pour semer le doute"
+        "help1": "Laisse des orbes pour semer le doute"
     },
     {
         "id": 22,
@@ -217,7 +217,7 @@
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/writing-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help": "spirit box guarantie en mode cauchemar ou insane"
+        "help1": "Spirit box guarantie en mode cauchemar ou insane"
     },
     {
         "id": 23,
@@ -227,7 +227,7 @@
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/writing-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help": "On ne peut pas se cacher de lui"
+        "help1": "On ne peut pas se cacher de lui"
     },
     {
         "id": 24,
@@ -237,6 +237,6 @@
         "proof1": "images/orbs-icon.png",
         "proof2": "images/writing-icon.png",
         "proof3": "images/dots-icon.png",
-        "help": "N'accelère pas lorsqu'il nous voit"
+        "help1": "N'accelère pas lorsqu'il nous voit"
     }
 ]

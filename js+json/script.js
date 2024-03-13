@@ -47,6 +47,12 @@ function displayEntities(entities) {
         divProofs.appendChild(proof2);
         divProofs.appendChild(proof3);
 
+        const help1 = document.createElement('li');
+        help1.classList.add("help1");
+        help1.textContent = entity.help1;
+
+        const ulHelp = document.createElement('ul');
+        ulHelp.classList.add('ul-help');
 
         card.appendChild(name);
         card.appendChild(speed);

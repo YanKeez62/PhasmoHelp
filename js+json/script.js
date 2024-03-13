@@ -53,11 +53,13 @@ function displayEntities(entities) {
 
         const ulHelp = document.createElement('ul');
         ulHelp.classList.add('ul-help');
+        ulHelp.appendChild(help1);
 
         card.appendChild(name);
         card.appendChild(speed);
         card.appendChild(treshold);
         card.appendChild(divProofs);
+        card.appendChild(ulHelp);
 
         entityContainer.appendChild(card);
     });

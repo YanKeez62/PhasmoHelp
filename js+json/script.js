@@ -1,5 +1,4 @@
-// Chargement des données depuis le fichier JSON
-fetch('entity.json')
+fetch('https://raw.githubusercontent.com/YanKeez62/PhasmoHelp/main/js%2Bjson/entity.json')
     .then(response => response.json())
     .then(data => {
         displayEntities(data);
@@ -8,11 +7,9 @@ fetch('entity.json')
         console.error('Une erreur s\'est produite lors du chargement des données :', error);
     });
 
-// Fonction pour afficher les entités sur le site
 function displayEntities(entities) {
-    const entityContainer = document.getElementById('entity-container'); // L'élément HTML où tu veux afficher les entités
+    const entityContainer = document.getElementById('entity-container');
 
-    // Parcours des données et création des cartes d'entités
     entities.forEach(entity => {
         const card = document.createElement('div');
         card.classList.add('entity-card');

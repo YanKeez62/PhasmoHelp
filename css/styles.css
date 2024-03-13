@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+div#entity-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+div.entity-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    height: 333.5px;
+    width: 187.5px;
+}
+
+p.entity-speed {
+    display: flex;
+    text-align: center;
+}
+
+p.entity-chase-treshold {
+    display: flex;
+    text-align: center;
+}

@@ -20,11 +20,11 @@ function displayEntities(entities) {
 
         const speed = document.createElement('p');
         speed.classList.add('entity-speed');
-        speed.textContent = entity.speed;
+        speed.textContent = "Vitesse de l'entité : " + entity.speed;
 
         const treshold = document.createElement('p');
         treshold.classList.add('entity-chase-treshold');
-        treshold.textContent = entity.treshold;
+        treshold.textContent = "Seuil de santé mentale pour chasser : " + entity.treshold;
 
         card.appendChild(name);
         card.appendChild(speed);

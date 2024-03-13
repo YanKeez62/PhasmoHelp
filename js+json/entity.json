@@ -6,7 +6,8 @@
         "treshold": "50%",
         "proof1": "images/emf5-icon.png",
         "proof2": "images/spirit-box-icon.png",
-        "proof3": "images/writing-icon.png"
+        "proof3": "images/writing-icon.png",
+        "help": ""
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "treshold": "50%",
         "proof1": "images/emf5-icon.png",
         "proof2": "images/spirit-box-icon.png",
-        "proof3": "images/dots-icon.png"
+        "proof3": "images/dots-icon.png",
+        "help": "Ne marche pas dans le sel"
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@
         "treshold": "50%",
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/fingerprints-icon.png",
-        "proof3": "images/dots-icon.png"
+        "proof3": "images/dots-icon.png",
+        "help": "Disparait lorsqu'il est prit en photo"
     },
     {
         "id": 4,
@@ -33,7 +36,8 @@
         "treshold": "50%",
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/fingerprints-icon.png",
-        "proof3": "images/writing-icon.png"
+        "proof3": "images/writing-icon.png",
+        "help": "Peut bouger plusieurs objets à la fois de façon puissante"
     },
     {
         "id": 5,
@@ -42,7 +46,8 @@
         "treshold": "50%",
         "proof1": "images/fingerprints-icon.png",
         "proof2": "images/orbs-icon.png",
-        "proof3": "images/dots-icon.png"
+        "proof3": "images/dots-icon.png",
+        "help": "Fait beaucoup d'apparitions chantantes"
     },
     {
         "id": 6,
@@ -51,7 +56,8 @@
         "treshold": "50%",
         "proof1": "images/emf5-icon.png",
         "proof2": "images/fingerprints-icon.png",
-        "proof3": "images/freezing-icon.png"
+        "proof3": "images/freezing-icon.png",
+        "help": ""
     },
     {
         "id": 7,
@@ -60,7 +66,8 @@
         "treshold": "40% / 60% en fonction de la luminosité de sa pièce",
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/orbs-icon.png",
-        "proof3": "images/writing-icon.png"
+        "proof3": "images/writing-icon.png",
+        "help": "N'allume jamais le courant"
     },
     {
         "id": 8,
@@ -69,7 +76,8 @@
         "treshold": "50%",
         "proof1": "images/orbs-icon.png",
         "proof2": "images/writing-icon.png",
-        "proof3": "images/freezing-icon.png"
+        "proof3": "images/freezing-icon.png",
+        "help": ""
     },
     {
         "id": 9,
@@ -78,7 +86,8 @@
         "treshold": "35%",
         "proof1": "images/emf5-icon.png",
         "proof2": "images/writing-icon.png",
-        "proof3": "images/freezing-icon.png"
+        "proof3": "images/freezing-icon.png",
+        "help": "Fait très peu d'interactions au début"
     },
     {
         "id": 10,
@@ -87,7 +96,8 @@
         "treshold": "70% / 100% (Capacité)",
         "proof1": "images/fingerprints-icon.png",
         "proof2": "images/writing-icon.png",
-        "proof3": "images/freezing-icon.png"
+        "proof3": "images/freezing-icon.png",
+        "help": "Son cooldown de chasse est de 20s au lieu de 25s"
     },
     {
         "id": 11,
@@ -96,7 +106,8 @@
         "treshold": "50%",
         "proof1": "images/orbs-icon.png",
         "proof2": "images/freezing-icon.png",
-        "proof3": "images/dots-icon.png"
+        "proof3": "images/dots-icon.png",
+        "help": ""
     },
     {
         "id": 12,
@@ -105,7 +116,8 @@
         "treshold": "50%",
         "proof1": "images/emf5-icon.png",
         "proof2": "images/freezing-icon.png",
-        "proof3": "images/dots-icon.png"
+        "proof3": "images/dots-icon.png",
+        "help": ""
     },
     {
         "id": 13,
@@ -114,7 +126,8 @@
         "treshold": "50% ou 80%  si on fait du bruit à coté de lui",
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/orbs-icon.png",
-        "proof3": "images/dots-icon.png"
+        "proof3": "images/dots-icon.png",
+        "help": ""
     },
     {
         "id": 14,
@@ -123,7 +136,8 @@
         "treshold": "50%",
         "proof1": "images/fingerprints-icon.png",
         "proof2": "images/orbs-icon.png",
-        "proof3": "images/freezing-icon.png"
+        "proof3": "images/freezing-icon.png",
+        "help": ""
     },
     {
         "id": 15,
@@ -132,7 +146,8 @@
         "treshold": "50%",
         "proof1": "images/emf5-icon.png",
         "proof2": "images/fingerprints-icon.png",
-        "proof3": "images/dots-icon.png"
+        "proof3": "images/dots-icon.png",
+        "help": ""
     },
     {
         "id": 16,
@@ -141,7 +156,8 @@
         "treshold": "50%",
         "proof1": "images/emf5-icon.png",
         "proof2": "images/fingerprints-icon.png",
-        "proof3": "images/writing-icon.png"
+        "proof3": "images/writing-icon.png",
+        "help": "Bruits de pas inaudibles à plus de 12m mais pas les interactions"
     },
     {
         "id": 17,
@@ -150,7 +166,8 @@
         "treshold": "60% / 100% (Capacité)",
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/orbs-icon.png",
-        "proof3": "images/freezing-icon.png"
+        "proof3": "images/freezing-icon.png",
+        "help": ""
     },
     {
         "id": 18,
@@ -159,7 +176,8 @@
         "treshold": "50%",
         "proof1": "images/emf5-icon.png",
         "proof2": "images/spirit-box-icon.png",
-        "proof3": "images/freezing-icon.png"
+        "proof3": "images/freezing-icon.png",
+        "help": "Font souvent des doubles intéractions (visible sur le tableau)"
     },
     {
         "id": 19,
@@ -168,7 +186,8 @@
         "treshold": "65%",
         "proof1": "images/emf5-icon.png",
         "proof2": "images/orbs-icon.png",
-        "proof3": "images/dots-icon.png"
+        "proof3": "images/dots-icon.png",
+        "help": "Ressent l'éléctronique à 15m au lieu de 10m "
     },
     {
         "id": 20,
@@ -177,7 +196,8 @@
         "treshold": "50%",
         "proof1": "images/emf5-icon.png",
         "proof2": "images/fingerprints-icon.png",
-        "proof3": "images/orbs-icon.png"
+        "proof3": "images/orbs-icon.png",
+        "help": "Peut laisser des empreintes à 6 doigts"
     },
     {
         "id": 21,
@@ -186,7 +206,8 @@
         "treshold": "Selon l'entité immitée",
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/fingerprints-icon.png",
-        "proof3": "images/freezing-icon.png"
+        "proof3": "images/freezing-icon.png",
+        "help": "Laisse des orbes pour semer le doute"
     },
     {
         "id": 22,
@@ -195,7 +216,8 @@
         "treshold": "50%",
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/writing-icon.png",
-        "proof3": "images/freezing-icon.png"
+        "proof3": "images/freezing-icon.png",
+        "help": "spirit box guarantie en mode cauchemar ou insane"
     },
     {
         "id": 23,
@@ -204,7 +226,8 @@
         "treshold": "40%",
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/writing-icon.png",
-        "proof3": "images/freezing-icon.png"
+        "proof3": "images/freezing-icon.png",
+        "help": "On ne peut pas se cacher de lui"
     },
     {
         "id": 24,
@@ -213,6 +236,7 @@
         "treshold": "75% / 15% toujours en fonction du viellissement",
         "proof1": "images/orbs-icon.png",
         "proof2": "images/writing-icon.png",
-        "proof3": "images/dots-icon.png"
+        "proof3": "images/dots-icon.png",
+        "help": "N'accelère pas lorsqu'il nous voit"
     }
 ]

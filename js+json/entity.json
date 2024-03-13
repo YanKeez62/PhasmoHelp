@@ -3,144 +3,216 @@
         "id": 1,
         "name": "Esprit",
         "speed": "1,7m/s",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/emf5-icon.png",
+        "proof2": "images/spirit-box-icon.png",
+        "proof3": "images/writing-icon.png"
     },
     {
         "id": 2,
         "name": "Spectre",
         "speed": "1,7m/s",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/emf5-icon.png",
+        "proof2": "images/spirit-box-icon.png",
+        "proof3": "images/dots-icon.png"
     },
     {
         "id": 3,
         "name": "Fantôme",
         "speed": "1,7m/s",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/spirit-box-icon.png",
+        "proof2": "images/fingerprints-icon.png",
+        "proof3": "images/dots-icon.png"
     },
     {
         "id": 4,
         "name": "Poltergeist",
         "speed": "1,7m/s",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/spirit-box-icon.png",
+        "proof2": "images/fingerprints-icon.png",
+        "proof3": "images/writing-icon.png"
     },
     {
         "id": 5,
         "name": "Banshee",
         "speed": "1,7m/s",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/fingerprints-icon.png",
+        "proof2": "images/orbs-icon.png",
+        "proof3": "images/dots-icon.png"
     },
     {
         "id": 6,
         "name": "Djinn",
         "speed": "1,7m/s à 2,5m/s si le courant est allumé et que l'entité est à plus de 3m de soi",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/emf5-icon.png",
+        "proof2": "images/fingerprints-icon.png",
+        "proof3": "images/freezing-icon.png"
     },
     {
         "id": 7,
         "name": "Cauchemar",
         "speed": "1,7m/s",
-        "treshold": "40% / 60% en fonction de la luminosité de sa pièce"
+        "treshold": "40% / 60% en fonction de la luminosité de sa pièce",
+        "proof1": "images/spirit-box-icon.png",
+        "proof2": "images/orbs-icon.png",
+        "proof3": "images/writing-icon.png"
     },
     {
         "id": 8,
         "name": "Revenant",
         "speed": "1m/s ou 3m/s s'il vous voit",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/orbs-icon.png",
+        "proof2": "images/writing-icon.png",
+        "proof3": "images/freezing-icon.png"
     },
     {
         "id": 9,
         "name": "Ombre",
         "speed": "1,7m/s",
-        "treshold": "35%"
+        "treshold": "35%",
+        "proof1": "images/emf5-icon.png",
+        "proof2": "images/writing-icon.png",
+        "proof3": "images/freezing-icon.png"
     },
     {
         "id": 10,
         "name": "Démon",
         "speed": "1,7m/s",
-        "treshold": "70% / 100% (Capacité)"
+        "treshold": "70% / 100% (Capacité)",
+        "proof1": "images/fingerprints-icon.png",
+        "proof2": "images/writing-icon.png",
+        "proof3": "images/freezing-icon.png"
     },
     {
         "id": 11,
         "name": "Yurei",
         "speed": "1,7m/s",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/orbs-icon.png",
+        "proof2": "images/freezing-icon.png",
+        "proof3": "images/dots-icon.png"
     },
     {
         "id": 12,
         "name": "Oni",
         "speed": "1,7m/s",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/emf5-icon.png",
+        "proof2": "images/freezing-icon.png",
+        "proof3": "images/dots-icon.png"
     },
     {
         "id": 13,
         "name": "Yokai",
         "speed": "1,7m/s",
-        "treshold": "50% ou 80%  si on fait du bruit à coté de lui"
+        "treshold": "50% ou 80%  si on fait du bruit à coté de lui",
+        "proof1": "images/spirit-box-icon.png",
+        "proof2": "images/orbs-icon.png",
+        "proof3": "images/dots-icon.png"
     },
     {
         "id": 14,
         "name": "Hantu",
         "speed": "1,44m/s à 2,7m/s selon la temp.",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/fingerprints-icon.png",
+        "proof2": "images/orbs-icon.png",
+        "proof3": "images/freezing-icon.png"
     },
     {
         "id": 15,
         "name": "Goryo",
         "speed": "1,7m/s",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/emf5-icon.png",
+        "proof2": "images/fingerprints-icon.png",
+        "proof3": "images/dots-icon.png"
     },
     {
         "id": 16,
         "name": "Myling",
         "speed": "1,7m/s",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/emf5-icon.png",
+        "proof2": "images/fingerprints-icon.png",
+        "proof3": "images/writing-icon.png"
     },
     {
         "id": 17,
         "name": "Onryo",
         "speed": "1,7m/s",
-        "treshold": "60% / 100% (Capacité)"
+        "treshold": "60% / 100% (Capacité)",
+        "proof1": "images/spirit-box-icon.png",
+        "proof2": "images/orbs-icon.png",
+        "proof3": "images/freezing-icon.png"
     },
     {
         "id": 18,
         "name": "Les jumeaux",
         "speed": "Un à 1,53m/s et un à 1,87m/s",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/emf5-icon.png",
+        "proof2": "images/spirit-box-icon.png",
+        "proof3": "images/freezing-icon.png"
     },
     {
         "id": 19,
         "name": "Raiju",
         "speed": "1,7m/s ou 2,5m/s selon la proximité avec un équipement éléctronique",
-        "treshold": "65%"
+        "treshold": "65%",
+        "proof1": "images/emf5-icon.png",
+        "proof2": "images/orbs-icon.png",
+        "proof3": "images/dots-icon.png"
     },
     {
         "id": 20,
         "name": "Obake",
         "speed": "1,7m/s",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/emf5-icon.png",
+        "proof2": "images/fingerprints-icon.png",
+        "proof3": "images/orbs-icon.png"
     },
     {
         "id": 21,
         "name": "Mimic",
         "speed": "Selon l'entité immitée",
-        "treshold": "Selon l'entité immitée"
+        "treshold": "Selon l'entité immitée",
+        "proof1": "images/spirit-box-icon.png",
+        "proof2": "images/fingerprints-icon.png",
+        "proof3": "images/freezing-icon.png"
     },
     {
         "id": 22,
         "name": "Moroi",
         "speed": "1,5m/s à 2,25m/s en fonction de la santé mentale et 3,71m/s s'il vous voit",
-        "treshold": "50%"
+        "treshold": "50%",
+        "proof1": "images/spirit-box-icon.png",
+        "proof2": "images/writing-icon.png",
+        "proof3": "images/freezing-icon.png"
     },
     {
         "id": 23,
         "name": "Deogen",
         "speed": "3m/s de loin et 0.4m/s lorsqu'il est proche",
-        "treshold": "40%"
+        "treshold": "40%",
+        "proof1": "images/spirit-box-icon.png",
+        "proof2": "images/writing-icon.png",
+        "proof3": "images/freezing-icon.png"
     },
     {
         "id": 24,
         "name": "Thaye",
         "speed": "de 2,75m/s à 1m/s selon le viellissement de l'entité",
-        "treshold": "75% / 15% toujours en fonction du viellissement"
+        "treshold": "75% / 15% toujours en fonction du viellissement",
+        "proof1": "images/orbs-icon.png",
+        "proof2": "images/writing-icon.png",
+        "proof3": "images/dots-icon.png"
     }
 ]

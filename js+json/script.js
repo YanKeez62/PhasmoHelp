@@ -26,9 +26,32 @@ function displayEntities(entities) {
         treshold.classList.add('entity-chase-treshold');
         treshold.textContent = "Seuil de santé mentale pour chasser : " + entity.treshold;
 
+        const proof1 = document.createElement('img');
+        proof1.classList.add('entity-proof1');
+        proof1.src = entity.proof1;
+        proof1.alt = entity.name;
+
+        const proof2 = document.createElement('img');
+        proof2.classList.add('entity-proof2');
+        proof2.src = entity.proof2;
+        proof2.alt = entity.name;
+
+        const proof3 = document.createElement('img');
+        proof3.classList.add('entity-proof3');
+        proof3.src = entity.proof3;
+        proof3.alt = entity.name;
+
+        const divProofs = document.createElement('div');
+        divProofs.classList.add('entity-proofs-div');
+        divProofs.appendChild(proof1);
+        divProofs.appendChild(proof2);
+        divProofs.appendChild(proof3);
+
+
         card.appendChild(name);
         card.appendChild(speed);
         card.appendChild(treshold);
+        card.appendChild(divProofs);
 
         entityContainer.appendChild(card);
     });

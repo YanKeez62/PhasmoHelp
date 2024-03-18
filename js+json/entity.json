@@ -7,7 +7,7 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/spirit-box-icon.png",
         "proof3": "images/writing-icon.png",
-        "help1": "Prévient 2x plus tôt quand une chasse va arriver (180s au lieu de 90s)"
+        "help1": "Lorsqu'un encens est utilisé sur l'entité, le cooldown entre la fin de la chasse actuelle et la suivante passe à 180s au lieu de 90s pour n'importe quelle autre entité"
     },
     {
         "id": 2,
@@ -17,7 +17,8 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/spirit-box-icon.png",
         "proof3": "images/dots-icon.png",
-        "help1": "Ne marche pas dans le sel"
+        "help1": "Ne marche pas dans le sel",
+        "help2": "Peut lancer un EMF 2, se téleporter à un joueur et retourner vers sa salle favorite"
     },
     {
         "id": 3,
@@ -37,7 +38,7 @@
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/fingerprints-icon.png",
         "proof3": "images/writing-icon.png",
-        "help1": "Peut bouger plusieurs objets à la fois de façon puissante"
+        "help1": "Peut bouger plusieurs objets à la fois de façon puissante avec sa capacité"
     },
     {
         "id": 5,
@@ -47,7 +48,9 @@
         "proof1": "images/fingerprints-icon.png",
         "proof2": "images/orbs-icon.png",
         "proof3": "images/dots-icon.png",
-        "help1": "Fait beaucoup d'apparitions chantantes"
+        "help1": "Fait beaucoup d'apparitions chantantes",
+        "help2": "Peut provoquer un cri audible au microphone parabolique",
+        "help3": "La banshee prend pour cible quelqu'un et le chassera uniquement lui (sauf si sa ciible est en dehors de la maison)"
     },
     {
         "id": 6,
@@ -87,7 +90,8 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/writing-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help1": "Ne fait pas d'interactions ou de chasse quand quelqu'un est dans sa pièce"
+        "help1": "Ne fait pas d'interactions ou de chasse quand quelqu'un est dans la même pièce qu'elle",
+        "help2": "Est la seule entité à apparaitre sous forme d'ombre lors d'un rituel (pentagramme) ou la b"
     },
     {
         "id": 10,
@@ -107,7 +111,7 @@
         "proof1": "images/orbs-icon.png",
         "proof2": "images/freezing-icon.png",
         "proof3": "images/dots-icon.png",
-        "help1": "Seule entité à pouvoir intéragir avec / fermer la porte d'entrée hors chasse"
+        "help1": "Seule entité à pouvoir intéragir avec la porte d'entrée hors chasse"
     },
     {
         "id": 12,
@@ -132,7 +136,7 @@
     {
         "id": 14,
         "name": "Hantu",
-        "speed": "1,44m/s à 2,7m/s selon la temp.",
+        "speed": "1,44m/s à 2,7m/s selon la température",
         "treshold": "50%",
         "proof1": "images/fingerprints-icon.png",
         "proof2": "images/orbs-icon.png",
@@ -147,7 +151,8 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/fingerprints-icon.png",
         "proof3": "images/dots-icon.png",
-        "help1": "Ces DOTs n'apparaissent que dans une caméra et sans présence dans sa salle"
+        "help1": "Ces DOTs n'apparaissent que dans une caméra et sans présence dans sa salle",
+        "help2": "Le goryo n'apparait sur les DOTs que derrière une caméra"
     },
     {
         "id": 16,
@@ -167,7 +172,8 @@
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/orbs-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help1": "Les flammes agissent comme un crucifix"
+        "help1": "Les flammes agissent comme un crucifix",
+        "help2": "Au bout de 3 extinction de bougie, le onryo lancera une chasse"
     },
     {
         "id": 18,
@@ -177,7 +183,7 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/spirit-box-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help1": "Font souvent des doubles intéractions (visible sur le tableau)"
+        "help1": "Font souvent des doubles intéractions (visibles sur le tableau)"
     },
     {
         "id": 19,
@@ -197,7 +203,10 @@
         "proof1": "images/emf5-icon.png",
         "proof2": "images/fingerprints-icon.png",
         "proof3": "images/orbs-icon.png",
-        "help1": "Peut laisser des empreintes à 6 doigts"
+        "help1": "Peut laisser des empreintes à 6 doigts",
+        "help2": "Il à 6,66% de chance de changer de forme lors d'un clignotement pendant une chasse (il utilisera au moins une fois cette capacité par chasse)",
+        "help3": "L'ultraviolet est obligatoire en 1 ou 2 preuves",
+        "help4": "Les empreintes disparaissent 2 fois plus vite s'il utilise sa capacité"
     },
     {
         "id": 21,
@@ -217,7 +226,9 @@
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/writing-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help1": "Spirit box guarantie en mode cauchemar ou insane"
+        "help1": "Spirit box guarantie en 2 ou 1 preuve(s)",
+        "help2": "Maudit le joueur lorsque celui-ci l'entend au micro parabolique ou à la spirit-box, ce qui fait que le joueur baisse sa santé mentale 2x plus vite",
+        "help3": "Lorsqu'un encens est utilisé sur l'entité, elle est aveugle 7,5s au lieu de 5s en temps normal"
     },
     {
         "id": 23,
@@ -227,7 +238,8 @@
         "proof1": "images/spirit-box-icon.png",
         "proof2": "images/writing-icon.png",
         "proof3": "images/freezing-icon.png",
-        "help1": "On ne peut pas se cacher de lui"
+        "help1": "On ne peut pas se cacher de lui",
+        "help2": "Spirit box guarantie en 2 ou 1 preuve(s)"
     },
     {
         "id": 24,
@@ -237,6 +249,8 @@
         "proof1": "images/orbs-icon.png",
         "proof2": "images/writing-icon.png",
         "proof3": "images/dots-icon.png",
-        "help1": "N'accelère pas lorsqu'il nous voit"
+        "help1": "N'accelère pas lorsqu'il nous voit",
+        "help2": "Vielli toute les 1 à 2 minutes",
+        "help3": "L'âge donné via la planche de Ouija sera différent selon le viellissement du thaye"
     }
 ]

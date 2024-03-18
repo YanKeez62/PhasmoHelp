@@ -51,9 +51,24 @@ function displayEntities(entities) {
         help1.classList.add("help1");
         help1.textContent = entity.help1;
 
+        const help2 = document.createElement('li');
+        help1.classList.add("help2");
+        help1.textContent = entity.help2;
+
+        const help3 = document.createElement('li');
+        help1.classList.add("help3");
+        help1.textContent = entity.help3;
+
+        const help4 = document.createElement('li');
+        help1.classList.add("help4");
+        help1.textContent = entity.help4;
+
         const ulHelp = document.createElement('ul');
         ulHelp.classList.add('ul-help');
         ulHelp.appendChild(help1);
+        ulHelp.appendChild(help2);
+        ulHelp.appendChild(help3);
+        ulHelp.appendChild(help4);
 
         card.appendChild(name);
         card.appendChild(speed);

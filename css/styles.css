@@ -28,8 +28,10 @@ div.entity-card {
     border: 2px solid black;
     border-radius: 10px;
     margin: 10px;
-    height: 353.5px;
-    width: 187.5px;
+    height: fit-content
+        /* 389.73375px; */
+    ;
+    width: 206.71875px;
 }
 
 p.entity-speed {
@@ -58,4 +60,24 @@ img.entity-proof3 {
 h2.entity-name {
     border-bottom: 1px solid purple;
     font-family: "ParDefaut", sans-serif;
+}
+
+div.infos_generales {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-bottom: 2px ridge purple;
+}
+
+div.infos_generales h1 {
+    color: purple;
+    font-family: "ParDefaut", sans-serif;
+}
+
+ul.ul-help {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 0 0 20px;
+    margin: 16px 4px;
 }
